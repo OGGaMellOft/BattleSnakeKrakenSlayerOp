@@ -18,7 +18,7 @@ function handleIndex(request, response) {
   var battlesnakeInfo = {
     apiversion: '1',
     author: 'gamelloft',
-    color: '#51C944',
+    color: '#888888',
     head: 'default',
     tail: 'default'
   }
